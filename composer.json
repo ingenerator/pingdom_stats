@@ -1,0 +1,12 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "2.*",
+        "guzzle/guzzle":   "3.8.*"
+    },
+    "config": {
+        "bin-dir": "bin",
+        "process-timeout": 600,
+        "preferred-install": "dist",
+        "cache-dir": "/var/composer/cache"
+    }
+}
